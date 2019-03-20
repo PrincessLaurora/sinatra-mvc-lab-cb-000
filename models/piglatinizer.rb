@@ -5,11 +5,11 @@ class PigLatinizer
   def piglatinize(user_phrase)
     if (user_phrase.split(" ").length == 1
       piglatinize_word(user_phrase)
-    else 
+    else
       piglatinize_sentence
     end
-  end    
-  
+  end
+
 
 
 
