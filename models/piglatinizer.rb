@@ -11,7 +11,7 @@ class PigLatinizer
   end
 
 
-  
+
 
 
     phrase = words.split(" ")
